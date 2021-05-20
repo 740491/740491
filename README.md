@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nachete1998zgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nachete1998zgz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jose ignacio hernandez gracia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jose ignacio hernandez gracia" height="30" width="40" /></a>
+<a href="https://twitter.com/nachete1998zgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="Twitter: nachete1998zgz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josé-ignacio-hernández-gracia-591585141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="- Linkedin: José Ignacio Hernández Gracia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
